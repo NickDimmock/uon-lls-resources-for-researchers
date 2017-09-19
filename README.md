@@ -6,7 +6,7 @@ Library & Learning Services: Resources for Researchers
 *A collection of resources for researchers and research-active staff at The University of Northampton.*
 
 
-LLS Research support team
+LLS Research Support team
 -------------------------
 
 The LLS Research Support team are:
@@ -17,12 +17,29 @@ The LLS Research Support team are:
 LLS support for researchers
 ---------------------------
 
-- [Research Support Hub](http://researchsupporthub.northampton.ac.uk) - News and announcements from Research Support Team, Graduate School, Research & Strategic Bidding Office
-- [Yammer group](https://www.yammer.com/northampton.ac.uk/) - Research Support for all staff and researchers at the University of Northampton
-- [NILE: RES001](http://nile.northampton.ac.uk) - Training session notes, presentations etc.
-- [Skills Hub: postgraduate research skills](https://skillshub.northampton.ac.uk/tag/postgraduate-research-skills/)
-- [Training sessions](https://researchsupporthub.northampton.ac.uk/2016/07/13/the-2016-17-pgr-and-ecr-skills-development-programme/) - Part of the Graduate School Development Programme
-- One-to-one support - Just ask!
+### Research Support Hub
+- News and announcements from the Research Support team, Graduate School and Research & Strategic Bidding Office
+- http://researchsupporthub.northampton.ac.uk
+
+### Yammer group
+- Research Support for all staff and researchers at the University of Northampton
+- https://www.yammer.com/northampton.ac.uk/
+
+### NILE: RES001
+- Training session notes, presentations etc.
+- http://nile.northampton.ac.uk
+
+### Skills Hub
+- Skills support for students and researchers
+- Includes postgraduate research skills
+- https://skillshub.northampton.ac.uk/tag/postgraduate-research-skills/
+
+### Training sessions
+- Part of the Graduate School Development Programme
+- https://researchsupporthub.northampton.ac.uk/2016/07/13/the-2016-17-pgr-and-ecr-skills-development-programme/
+
+### One-to-one support
+- Just ask!
 
 
 Tools for accessing resources
