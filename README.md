@@ -196,3 +196,4 @@ Getting help
 -----
 
 *List maintained by [Nick Dimmock](https://www.northampton.ac.uk/directories/people/nick.dimmock/)*
+*Quick link: <http://bit.ly/lls4res>*
