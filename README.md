@@ -142,12 +142,10 @@ Electronic theses
 
 ### Submission
 
+- See the [research student toolkit](https://mynorthamptonac.sharepoint.com/sites/student/postgraduate-research-students/research-student-toolkit) for details of thesis requirements
 - Submission of final, post-examination copy of thesis in electronic form is mandatory
 - Electronic copy will be made available via [NECTAR](http://nectar.northampton.ac.uk/) and harvested by [EThOS](http://ethos.bl.uk)
-    - View all [full text theses](http://nectar.northampton.ac.uk/cgi/search/archive/advanced?screen=Search&dataset=archive&documents_merge=ALL&documents=&title_merge=ALL&title=&creators_name_merge=ALL&creators_name=&abstract_merge=ALL&abstract=&keywords_merge=ALL&keywords=&full_text_status=public&divisions_merge=ANY&subjects_merge=ANY&interests_merge=ANY&type=thesis&editors_name_merge=ALL&editors_name=&refereed=EITHER&publication_merge=ALL&publication=&publisher_merge=ALL&publisher=&date=&research_sup_merge=ALL&research_sup=&funders_merge=ALL&funders=&grant_ref_num_merge=ALL&grant_ref_num=&extra_cite_merge=ALL&extra_cite=&note_merge=ALL&note=&satisfyall=ALL&order=-date%2Fcreators_name%2Ftitle&_action_search=Search) on NECTAR
-- Embargoes are available:
-    - One year option on submission
-    - Longer embargoes by request to Research Degrees Committee
+    - View all [full text theses](http://nectar.northampton.ac.uk/cgi/search/archive/advanced?screen=Search&dataset=archive&documents_merge=ALL&documents=&title_merge=ALL&title=&creators_name_merge=ALL&creators_name=&abstract_merge=ALL&abstract=&keywords_merge=ALL&keywords=&full_text_status=public&divisions_merge=ANY&subjects_merge=ANY&interests_merge=ANY&type=thesis&editors_name_merge=ALL&editors_name=&refereed=EITHER&publication_merge=ALL&publication=&publisher_merge=ALL&publisher=&date=&research_sup_merge=ALL&research_sup=&funders_merge=ALL&funders=&grant_ref_num_merge=ALL&grant_ref_num=&extra_cite_merge=ALL&extra_cite=&note_merge=ALL&note=&satisfyall=ALL&order=-date%2Fcreators_name%2Ftitle&_action_search=Search) on NECTAR (embargo options are available)
 - Students may also wish to make supporting data available externally
 - Funder policies and mandates may apply
     - Check policies on [SHERPA JULIET](http://www.sherpa.ac.uk/juliet/)
